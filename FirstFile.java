@@ -4,5 +4,6 @@ class firstFile {
 	}
 	
 	public void bar() {
+		// change1
 	}
 }
